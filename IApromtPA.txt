@@ -1,0 +1,20 @@
+Necesito saber como organizer de una manera optima con tablas graficas los tipos de datos de un csv, este caso la listaroot
+Formatted Date: timestamp 
+Summary: string 
+Precip Type: string 
+Temperature (C): double 
+Apparent Temperature (C): double 
+Humidity: double 
+Wind Speed (km/h): double 
+Wind Bearing (degrees): double 
+Visibility (km): double 
+Loud Cover: double 
+Pressure (millibars): double
+Daily Summary: string
+con esta lista de los tipos de datos, analiza y generame ideas de como puedo demostrar estos datos de una mejor manera visual, usando los tipos de graficos como
+Tabla,Grafica de Columnas,Garfica de Pastel,Grafica de Linea,Grafica de Area y Grafica de puntos.
+
+Promt#2
+Necesito un ejemplo de como poder filtrar una fecha en concreto para ver los datos que contiene esta fecha es decir tengo el dato 01/01/01 00:00:00 HASTA el 01/01/01 10:10:10, me gustaria saber como puedo ejecercer una forma en la pueda traer todos esos datos , pero solo traynedo la fecha en la sentencia 01/01/01 y me traiga todas las horas, se que existe el contains y filter, pero me da un error de sintaxis, necesito saber como implementarlo correctamente e usarlo correctamente.
+
+
